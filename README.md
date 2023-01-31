@@ -15,7 +15,7 @@
 - :school: Zaawansowany prgramista Nukkit oraz Bukkit
 - :technologist: Uwielbiam używać oprogramowania jako rozwiązania każdego „Problemu”.
 - :student: Obecnie uczę się: `Informatyki` i `Inżynierii oprogramowania`.
-- :nerd_face: Ciągle „uczą się nowych rzeczy”.
+- :nerd_face: Ciągle „uczę się nowych rzeczy”.
 
 <br>
 
