@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Verciak&label=Profile%20views&color=0e75b6&style=plastic" alt="Verciak" /> 
+	<img src="https://komarev.com/ghpvc/?username=Verciak&label=Wyświetlenia%20profilu&color=0e75b6&style=plastic" alt="Verciak" /> 
 </p>
 
 
